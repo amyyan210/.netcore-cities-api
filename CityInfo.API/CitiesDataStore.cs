@@ -17,7 +17,7 @@ namespace CityInfo.API
                 {
                     Id = 1,
                     Name = "New York City",
-                    Description = "The one with thata big park.",
+                    Description = "The one with that big park.",
                     PointsOfInterest = new List<PointOfInterestDTO>()
                     {
                         new PointOfInterestDTO()
